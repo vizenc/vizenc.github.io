@@ -4,7 +4,7 @@
 
 ## Work Experience
 
-**KOMINFO Gresik:** July 2023 - December 2023
+**KOMDIGI Gresik:** July 2023 - December 2023
 
 Intern Web Developer
 
